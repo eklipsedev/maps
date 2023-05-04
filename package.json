@@ -1,24 +1,24 @@
 {
-  "name": "@finsweet/developer-starter",
+  "name": "@eklipse/maps",
   "version": "0.0.0",
-  "description": "Developer starter template for Finsweet projects.",
-  "homepage": "https://github.com/finsweet/developer-starter#readme",
+  "description": "Mapbox integration for Webflow.",
+  "homepage": "https://github.com/eklipsedev/maps#readme",
   "license": "ISC",
   "keywords": [],
   "author": {
-    "name": "Finsweet",
-    "url": "https://finsweet.com/"
+    "name": "eklipse Development",
+    "url": "https://eklipse.dev"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/finsweet/developer-starter.git"
+    "url": "git+https://github.com/eklipsedev/maps.git"
   },
   "bugs": {
-    "url": "https://github.com/finsweet/developer-starter/issues"
+    "url": "https://github.com/eklipsedev/maps/issues"
   },
   "type": "module",
-  "main": "src/index.ts",
-  "module": "src/index.ts",
+  "main": "src/index.js",
+  "module": "src/index.js",
   "files": [
     "dist"
   ],
